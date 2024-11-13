@@ -28,8 +28,8 @@ export const Login = () => {
     }
   }
   async function handleLogInAsGuest() {
-    email.current.value = process.env.REACT_APP_GUEST_LOGIN;
-    password.current.value = process.env.REACT_APP_GUEST_PASSWORD;
+    email.current.value = process.env.REACT_APP_GUEST_LOGIN; // default account login
+    password.current.value = process.env.REACT_APP_GUEST_PASSWORD; // password for default login
     try {
       const userAuth = {
         email: email.current.value,
