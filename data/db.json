@@ -296,6 +296,12 @@
       "password": "$2a$10$j9OoGuaHfea7F91afX35..33V38E0hR4TMYvNuiRCF6LD4yYKnI7u",
       "name": "nadeem",
       "id": 1
+    },
+    {
+      "email": "nadeem@gmail.com",
+      "password": "$2a$10$1LP0Y8gWb/sJT7ycjPwfKeeeEFtbdXHkkI.Ahjuz43UM6hLW1qXHy",
+      "name": "nadeemkaleem",
+      "id": 3
     }
   ]
 }
